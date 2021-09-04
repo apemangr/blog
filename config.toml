@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-languageCode = "en-us"
+baseURL = "https://apemangr.github.io"
+languageCode = "es"
 title = "Cactus theme example"
 theme = "cactus"
 copyright = "You" # cactus will use title if copyright is not set
