@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/apemangr/apemangr.github.io.git
+	branch = master
