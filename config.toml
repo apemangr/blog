@@ -31,7 +31,7 @@ weight = 4
 
 [markup]
   [markup.tableOfContents]
-    endLevel = 4
+    endLevel = 3
     ordered = false
     startLevel = 2
   [markup.highlight]
@@ -42,7 +42,7 @@ weight = 4
     lineNos = true
     lineNumbersInTable = false
     noClasses = true
-    style = "dracula"
+    style = "paraiso-dark"
     tabWidth = 4
 
 [params]
@@ -59,7 +59,7 @@ weight = 4
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = true # show tags overview by default.
   showProjectsList = true # show projects list by default (if projects data file exists).
-  projectsUrl = "https://github.com/gohugoio" # title link for projects list
+  projectsUrl = "https://github.com/apemangr?tab=projects" # title link for projects list
 
   # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
   dateFormat = "2006-01-02" # default
@@ -69,10 +69,10 @@ weight = 4
   showReadTime = true # default
 
   [params.comments]
-    enabled = true # default
+    enabled = false # default
     engine = "cactus_comments" # only disqus, utterances, and cactus_comments is supported
     [params.comments.utterances]
-      repo = "<github_username>/<github_reponame>"
+      repo = "apemangr/apemangr.github.io"
       label = "hugo-site-name" # you can use however you want to label your name in your repo's issues
       theme = "github-light"
     [params.comments.cactuscomments]
@@ -84,13 +84,13 @@ weight = 4
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
     name = "github"
-    link = "https://github.com/gohugoio"
+    link = "https://github.com/apemangr"
   [[params.social]]
     name = "linkedin"
     link = "https://www.linkedin.com/company/github/"
   [[params.social]]
     name = "email"
-    link = "example@example.com"  # no need for "mailto:" in the head
+    link = "apemangr@gmail.com"  # no need for "mailto:" in the head
 [params.math]
 enable = true # load math globally, default: false. You can always enable math on per page.
 use = "katex"  # builtin: "katex", "mathjax".  default: "katex"

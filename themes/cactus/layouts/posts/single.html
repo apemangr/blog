@@ -3,8 +3,8 @@
 {{ partial "head.html" . }}
 <body class="max-width mx-auto px3 ltr">
   <div class="content index py4">
-
   {{ partial "page_nav.html" . }}
+
 
   <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
     <header>
@@ -78,6 +78,39 @@
     </div>
   </article>
 
+
+
+
+
+      {{ $re := $.File.BaseFileName }}
+{{ $backlinks := slice }}
+{{ range .Site.AllPages }}
+   {{ if and (findRE $re .RawContent) (not (eq $re .File.BaseFileName)) }}
+      {{ $backlinks = $backlinks | append . }}
+   {{ end }}
+{{ end }}
+
+<hr>
+{{ if gt (len $backlinks) 0 }}
+  <div class="b1-section">
+    <h4>Links to this note</h4>
+    <div class="backlinks">
+      <ul>
+       {{ range $backlinks }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+       {{ end }}
+     </ul>
+    </div>
+  </div>
+{{ else  }}
+  <div class="b1-section">
+    <h4>No notes link to this note</h4>
+  </div>
+  {{ end }}
+
+
+
+  
   {{ partial "comments.html" . }}
 
   {{ partial "page_nav_mobile.html" . }}
@@ -114,4 +147,5 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 {{ end }}
+  
 </html>
