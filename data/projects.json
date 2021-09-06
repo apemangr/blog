@@ -1,9 +1,9 @@
 {
   "list": [
     {
-      "name":"Hugo",
-      "url":"https://gohugo.io/",
-      "desc":"The world’s fastest framework for building websites."
+      "name":"Likan - Circuit simulator",
+      "url":"https://github.com/apemangr/Likan",
+      "desc":"An open source circuit simulator maded with C++"
     },
     {
       "name":"Hugo Themes",

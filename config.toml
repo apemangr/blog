@@ -1,8 +1,8 @@
 baseURL = "https://apemangr.github.io"
 languageCode = "es"
-title = "Cactus theme example"
+title = "Apemangr's Braindump"
 theme = "cactus"
-copyright = "You" # cactus will use title if copyright is not set
+copyright = "apemangr" # cactus will use title if copyright is not set
 disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
 
@@ -15,7 +15,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Writings"
+name = "Posts"
 url = "/posts"
 weight = 2
 
