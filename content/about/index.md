@@ -1,7 +1,8 @@
 ---
-title: About me
-date: 2016-08-24 17:51:42
+title: "About"
+description: "This is a personal site where I want to use like a braindump"
+date: "2021-09-09"
+author: "apemangr"
 ---
 
-Github: [monkeyWzr](https://github.com/monkeyWzr)
-
+Working in progress...
