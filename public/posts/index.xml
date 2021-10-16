@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Apemangr&#39;s Braindump</title>
+    <link>https://apemangr.github.io/posts/</link>
+    <description>Recent content in Posts on Apemangr&#39;s Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>apemangr</copyright>
+    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apemangr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analisis</title>
+      <link>https://apemangr.github.io/posts/20210830133321-analisis/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210830133321-analisis/</guid>
+      <description>Libros Libros Obligatorios  c:/Users/apemangr/Desktop/Analisis/Libros/Oppenheim.pdf c:/Users/apemangr/Desktop/Analisis/Libros/Proakis.pdf  Libros Complementarios  c:/Users/apemangr/Desktop/Analisis/Libros/Lyons.pdf  Programa del curso  c:/Users/apemangr/Desktop/Analisis/Programa.pdf  Apuntes de clases  Analisis-Clase1 Analisis-Clase2  Apuntes de ayudantias  Analisis-Ayudantia1 Analisis-Ayudantia2  Unidades Unidad 1 </description>
+    </item>
+    
+    <item>
+      <title>Cálculo</title>
+      <link>https://apemangr.github.io/posts/20210822202314-calculo/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210822202314-calculo/</guid>
+      <description>Libros Libros Obligatorios  c:/Users/apemangr/Desktop/Calculo/Libros/Atkinson.pdf c:/Users/apemangr/Desktop/Calculo/Libros/Burden.pdf  Libros Complementarios  c:/Users/apemangr/Desktop/Propa/Libros/Kincaid.pdf  Programa del curso  c:/Users/apemangr/Desktop/Calculo/Programa.pdf  Apuntes de clases  Calculo-Clase1 (Introducción) Calculo-Clase2 Calculo-Clase3 Calculo-Clase4 Calculo-Clase5 Calculo-Clase6 Calculo-Clase7  Unidades Unidad 1 </description>
+    </item>
+    
+    <item>
+      <title>Cálculo - Clase 2</title>
+      <link>https://apemangr.github.io/posts/20210822202852-calculo_clase2/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210822202852-calculo_clase2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cálculo - Clase 3</title>
+      <link>https://apemangr.github.io/posts/20210822221756-calculo_clase3/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210822221756-calculo_clase3/</guid>
+      <description>Métodos directos A través de una operación se obtiene el valor deseado.
+Método de Gauss para resolver sistemas lineales Es importante darse cuanta cuando es necesario utilizar punto flotante, puesto que puede perjudicar todo el cálculo si no nos guiamos por lo que nos dice el enunciado.</description>
+    </item>
+    
+    <item>
+      <title>Cálculo - Clase 4</title>
+      <link>https://apemangr.github.io/posts/20210823230328-calculo_clase4/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210823230328-calculo_clase4/</guid>
+      <description>Solución al problema de Gauss Anteriormente vimos que si nuestro pivote es muy pequeño en comparación con los otro números esto nos puede crear problemas. Es por este motivo que es necesario dejar de pivote al número más grande.
+Factorización de matrices Para que resolver un sistema sea más fácil se empleará la factorización de matrices. Pero siempre hay que buscar que los factores sean matrices triángulo superior o inferior.</description>
+    </item>
+    
+    <item>
+      <title>Cálculo - Clase 5</title>
+      <link>https://apemangr.github.io/posts/20210829124135-calculo_clase5/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210829124135-calculo_clase5/</guid>
+      <description>Matrices Matriz regular Es cuando una matriz cumple con las siguientes características:
+ Es cuandrada m=n La matriz tiene determinante y este es distinto de 0 Tiene inversa  Matriz singular Es una matriz que no tiene inversa
+Condiciones para que una ecuación lineal tenga solución \[Ax=b\]
+Para que este tipo de ecuaciones tenga solución tiene que ser cuadrada y tener inversa.
+Definición Se dice que una matriz es diagonalmente dominante si el valor absoluto del elemento de la diagonal es mas grande que la suma de todos los otros elementos (sin pasar por el elemento de la diagonal).</description>
+    </item>
+    
+    <item>
+      <title>Cálculo - Clase 6</title>
+      <link>https://apemangr.github.io/posts/20210907142323-calculo_clase6/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210907142323-calculo_clase6/</guid>
+      <description>Métodos iterativos Buscan resolver sistemas lineales mas grandes, sin la ncesidad de cumplir con todos los requisitos de los métodos de la factorización.
+Método de Jacobi Se obtiene al resolver la i-ésima ecuación en Ax=b para x_i (para obtener siempre que a_ii ≠ 0)
+\[x_{i}=\sum_{j=1 \atop j \neq i}^{n}\left(-\frac{a_{i j} x_{j}}{a_{i i}}\right)+\frac{b_{i}}{a_{i i}}, \quad \text { para } i=1,2, \ldots, n\]</description>
+    </item>
+    
+    <item>
+      <title>Cálculo - Clase 7</title>
+      <link>https://apemangr.github.io/posts/20210907154112-calculo_clase7/</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210907154112-calculo_clase7/</guid>
+      <description>Normas vectoriales y matriciales Las normas l_2 y l_∞ para el vector x = (x_1, x_2&amp;hellip;&amp;hellip;.., x_n)^t se definen mediante:
+\[\|\mathbf{x}\|_{2}=\left\{\sum_{i=1}^{n} x_{i}^{2}\right\}^{1 / 2} \quad \mathrm{y} \quad\|\mathbf{x}\|_{\infty}=\operatorname{max}_{1 \leq i \leq n}\left|x_{i}\right|\]
+Si x = (x_1, x_2&amp;hellip;&amp;hellip;.., x_n)^t y Y = (y_1, y_2&amp;hellip;&amp;hellip;.., y_n)^t son vectores R^n, las distancias l_2 y l_∞ entre x e y se definen mediante:
+\[ \|\mathbf{x}-\mathbf{y}\|_{2}=\left\{\sum_{i=1}^{n}\left(x_{i}-y_{i}\right)^{2}\right\}^{1 / 2} \mathrm{y}\|\mathbf{x}-\mathbf{y}\|_{\infty}=\operatorname{máx}_{1 \leq i \leq n}\left|x_{i}-y_{i}\right| \]
+Criterios de convergencia para métodos iterativos Lema Si el radio espectral satisface ρ(T) &amp;lt; 1, entonces (I-T)^-1 existe, y (I-T)^-1 = I + T + T^2 + &amp;hellip; = \[\sum_{j=0}^{\infty} T^{j}\] Definición El radio espectral ρ(A) de una matriz A está definido por ρ(A) = máx|λ|, donde λ es un valor propio (eigenvalue) de A.</description>
+    </item>
+    
+    <item>
+      <title>Propagación de ondas electromagnéticas</title>
+      <link>https://apemangr.github.io/posts/20210821192600-propa/</link>
+      <pubDate>Sat, 04 Sep 2021 09:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210821192600-propa/</guid>
+      <description>Libros Libros Obligatorios  c:/Users/apemangr/Desktop/Propa/Libros/Pozar.pdf c:/Users/apemangr/Desktop/Propa/Libros/Krauss.pdf  Libros Complementarios  c:/Users/apemangr/Desktop/Propa/Libros/Fleisch  Programa del curso  c:/Users/apemangr/Desktop/Propa/Programa.pdf  Apuntes de clases  Propa-Clase1 (Solo fechas de pruebas) Propa-Clase2 Propa-Clase3 Propa-Clase4  Unidades Unidad 1 - Ondas electromagnéticas    </description>
+    </item>
+    
+    <item>
+      <title>Propagación de ondas electromagnéticas - Clase 2</title>
+      <link>https://apemangr.github.io/posts/20210821215837-propa_clase2/</link>
+      <pubDate>Sat, 04 Sep 2021 09:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210821215837-propa_clase2/</guid>
+      <description>¿Porqué hay una diferencia con los circuitos de bajas frecuencias? Debido a que la longitud de onda λ es mayor no podemos utilizar la teoría de redes para analizar este tipo de circuitos. Por ejemplo los fenómenos de propagación de ondas electromagnéticas no se pueden despreciar.
+Frecuencias de corte Siempre se miden a los -3dB puesto que si pasamos esos decibeles a la escala linear obtendremos 1/2, osea la mitad de la señal.</description>
+    </item>
+    
+    <item>
+      <title>Propagación de ondas electromagnéticas - Clase 3</title>
+      <link>https://apemangr.github.io/posts/20210821235123-propa_clase3/</link>
+      <pubDate>Sat, 04 Sep 2021 09:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210821235123-propa_clase3/</guid>
+      <description>Ecuaciones de Maxwell Ecuación de Maxwell-Faraday Un campo el\´ctricoque circula es producido por la variación de un campo magnético en el tiempo.
+\[\vec{\nabla} \times \vec{E}=-\frac{\partial\vec{B}}{\partial t} \]
+Rotacional del campo eléctrico: Tendencia de las líneas de campo a circular alrededor de un punto Razón de cambio del campo magnético
+Ecuación de Maxwell-Ampere Una corriente eléctrica o un cambio de flujo eléctrico a través de una superficie produce la circulación de un campo magnético.</description>
+    </item>
+    
+    <item>
+      <title>Propagación de ondas electromagnéticas - Clase 4</title>
+      <link>https://apemangr.github.io/posts/20210822134016-propa_clase4/</link>
+      <pubDate>Sat, 04 Sep 2021 09:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210822134016-propa_clase4/</guid>
+      <description>Momento de diposo ρ \[\vec{\rho} = Q\vec{s}\]
+Q = Carga \[\vec{s}\] = Vector dirigido de la carga negativa a las positiva. Magnitud igual a las distancias entre la carga
+Para un dialéctrico con N moléculas por unidad de volumen:
+\[\vec{P}=N\vec{p}\]
+ Si la polarización es uniforme solo aperece ne la superficie del material.    Densidad de carga volumétrica \[\rho_b = -\vec{\nabla} \cdot \vec{P}\]
+\[\rho_b\] = Densidad de cargas ligadas</description>
+    </item>
+    
+    <item>
+      <title>Analisis-Ayudantia1</title>
+      <link>https://apemangr.github.io/posts/20210902003100-analisis_ayudantia1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210902003100-analisis_ayudantia1/</guid>
+      <description>Comandos vistos  xlim: Limita el eje x a la hora de graficar.  ej: xlim([inicial, final]);
+ stem: Grafica los puntos, pero además líneas verticales de estos.  ej: stem([1:5],t);
+ scatter: Solo grafica los puntos.  ej: scatter([1:5],t);</description>
+    </item>
+    
+    <item>
+      <title>Analisis-Ayudantia2</title>
+      <link>https://apemangr.github.io/posts/20210902011657-analisis_ayudantia2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210902011657-analisis_ayudantia2/</guid>
+      <description>Nada relevante</description>
+    </item>
+    
+    <item>
+      <title>Analisis-Clase1</title>
+      <link>https://apemangr.github.io/posts/20210830133538-analisis_clase1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210830133538-analisis_clase1/</guid>
+      <description>Se�ales y procesamiento de se�ales Una se�al se define como cualquier magnitud f�sica que var�a con el tiempo, el espacio o cualquier otra variable.
+La voz, las ondas de radio, los electrocardiogramas son algunos ejemplos de se�ales en el tiempo. Las im�genes tambien son se�ales que dependen del espacio.
+Las se�ales pueden ser naturales (altura de mareas, radiaci�n electromagnetica del sol), o artificiales (radares, telefonos celulares).
+Aplicaciones del procesamiento de se�ales  Verificaci�n de la calidad del suministro el�ctrico Radar Sonar Medicina  Procesamiento an�logo y digital   Procesamiento an�logo: Actualmente se lleva a cabo mediante circuitos compuestos por resistores, capacitores, inductores, amplificadores, etc.</description>
+    </item>
+    
+    <item>
+      <title>Analisis-Clase2</title>
+      <link>https://apemangr.github.io/posts/20210830183216-analisis_clase2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210830183216-analisis_clase2/</guid>
+      <description>Una señal continua corresponde a una función f(x), donde f ∈ R, y está definida en el intervalo infinito 𝑡 ∈ [−∞, ∞].
+ Una señal discreta corresponde a una función definida sólo en intervalos de tiempo discretos y fijos. 𝑡 = 𝑛 𝑇𝑠 ∀𝑛 ∈ ℤ 𝑇𝑠- Sampling Time
+ Propiedades de las señales discretas Definición causalidad Una señal (función) discreta 𝑓[𝑛] de la forma: 𝑓 [𝑛] = … , 𝑓[−1] , 𝑓[0] , 𝑓[1] , … , 𝑓[𝑘] , … es causal si y solo si 𝑓[𝑛] = 0 para N &amp;lt; 0.</description>
+    </item>
+    
+    <item>
+      <title>Teoría de circuitos 1</title>
+      <link>https://apemangr.github.io/posts/20210818231152-teo1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210818231152-teo1/</guid>
+      <description>Libros Libros Obligatorios  Fundamentos de circuitos eléctricos - Sadiku Circuitos eléctricos - Dorf  Programa del curso  Programa  Unidades Unidad 1 Apuntes Clases Apuntes Ayudantía  Teoría de circuitos 1 - Ayudantía 5  </description>
+    </item>
+    
+  </channel>
+</rss>

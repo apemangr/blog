@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Propagación de onda electromagnéticas on Apemangr&#39;s Braindump</title>
+    <link>https://apemangr.github.io/tags/propagaci%C3%B3n-de-onda-electromagn%C3%A9ticas/</link>
+    <description>Recent content in Propagación de onda electromagnéticas on Apemangr&#39;s Braindump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>apemangr</copyright>
+    <lastBuildDate>Sat, 04 Sep 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://apemangr.github.io/tags/propagaci%C3%B3n-de-onda-electromagn%C3%A9ticas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Propagación de ondas electromagnéticas</title>
+      <link>https://apemangr.github.io/posts/20210821192600-propa/</link>
+      <pubDate>Sat, 04 Sep 2021 09:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210821192600-propa/</guid>
+      <description>Libros Libros Obligatorios  c:/Users/apemangr/Desktop/Propa/Libros/Pozar.pdf c:/Users/apemangr/Desktop/Propa/Libros/Krauss.pdf  Libros Complementarios  c:/Users/apemangr/Desktop/Propa/Libros/Fleisch  Programa del curso  c:/Users/apemangr/Desktop/Propa/Programa.pdf  Apuntes de clases  Propa-Clase1 (Solo fechas de pruebas) Propa-Clase2 Propa-Clase3 Propa-Clase4  Unidades Unidad 1 - Ondas electromagnéticas    </description>
+    </item>
+    
+    <item>
+      <title>Propagación de ondas electromagnéticas - Clase 2</title>
+      <link>https://apemangr.github.io/posts/20210821215837-propa_clase2/</link>
+      <pubDate>Sat, 04 Sep 2021 09:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210821215837-propa_clase2/</guid>
+      <description>¿Porqué hay una diferencia con los circuitos de bajas frecuencias? Debido a que la longitud de onda λ es mayor no podemos utilizar la teoría de redes para analizar este tipo de circuitos. Por ejemplo los fenómenos de propagación de ondas electromagnéticas no se pueden despreciar.
+Frecuencias de corte Siempre se miden a los -3dB puesto que si pasamos esos decibeles a la escala linear obtendremos 1/2, osea la mitad de la señal.</description>
+    </item>
+    
+    <item>
+      <title>Propagación de ondas electromagnéticas - Clase 3</title>
+      <link>https://apemangr.github.io/posts/20210821235123-propa_clase3/</link>
+      <pubDate>Sat, 04 Sep 2021 09:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210821235123-propa_clase3/</guid>
+      <description>Ecuaciones de Maxwell Ecuación de Maxwell-Faraday Un campo el\´ctricoque circula es producido por la variación de un campo magnético en el tiempo.
+\[\vec{\nabla} \times \vec{E}=-\frac{\partial\vec{B}}{\partial t} \]
+Rotacional del campo eléctrico: Tendencia de las líneas de campo a circular alrededor de un punto Razón de cambio del campo magnético
+Ecuación de Maxwell-Ampere Una corriente eléctrica o un cambio de flujo eléctrico a través de una superficie produce la circulación de un campo magnético.</description>
+    </item>
+    
+    <item>
+      <title>Propagación de ondas electromagnéticas - Clase 4</title>
+      <link>https://apemangr.github.io/posts/20210822134016-propa_clase4/</link>
+      <pubDate>Sat, 04 Sep 2021 09:00:00 +0000</pubDate>
+      
+      <guid>https://apemangr.github.io/posts/20210822134016-propa_clase4/</guid>
+      <description>Momento de diposo ρ \[\vec{\rho} = Q\vec{s}\]
+Q = Carga \[\vec{s}\] = Vector dirigido de la carga negativa a las positiva. Magnitud igual a las distancias entre la carga
+Para un dialéctrico con N moléculas por unidad de volumen:
+\[\vec{P}=N\vec{p}\]
+ Si la polarización es uniforme solo aperece ne la superficie del material.    Densidad de carga volumétrica \[\rho_b = -\vec{\nabla} \cdot \vec{P}\]
+\[\rho_b\] = Densidad de cargas ligadas</description>
+    </item>
+    
+  </channel>
+</rss>
