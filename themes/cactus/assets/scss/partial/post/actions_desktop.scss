@@ -99,7 +99,7 @@
     letter-spacing: .01em;
     font-weight: 200;
     font-style: normal;
-    font-size: .8rem;
+    font-size: 14px;
 
     ul {
       line-height: 15px;
@@ -168,7 +168,7 @@
 
     nav > ul > li {
       color: $color-text;
-      font-size: .8rem;
+      font-size: 14px;
 
       &:before {
         color: $color-accent-1;
@@ -178,7 +178,7 @@
     }
     nav > ul > li > ul > li {
       color: $color-meta;
-      font-size: .7rem;
+      font-size: 13px;
 
       &:before {
         color: $color-accent-1;
@@ -189,7 +189,7 @@
     }
     nav > ul > li > ul > li > ul > li {
       color: darken($color-meta, 20%);
-      font-size: .4rem;
+      font-size: 12px;
     }
     .toc-level-5 {
       display: none;
