@@ -19,6 +19,7 @@ name = "Posts"
 url = "/posts"
 weight = 2
 
+
 [[menu.main]]
 name = "Tags"
 url = "/tags"
@@ -42,7 +43,7 @@ weight = 4
     lineNos = false
     lineNumbersInTable = false
     noClasses = true
-    style = "base16-snazzy"
+    style = "nord"
     tabWidth = 4
 
 [params]
@@ -50,7 +51,7 @@ weight = 4
   colortheme = "classic" # dark, light, white, or classic
   rss = false # generate rss feed. default value is false
   googleAnalyticsAsync = false # use asynchronous tracking. Synchronous tracking by default
-  showAllPostsArchive = true # default
+  showAllPostsArchive = false # default
 
   # Home page settings
   description = "This is my personal site where I want to create a braindump."
