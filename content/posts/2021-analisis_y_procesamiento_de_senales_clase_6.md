@@ -101,11 +101,7 @@ Obetiendo como soluciones \\(\lambda\_1=\frac{5}{2}, \quad \lambda\_2=1\\)
 
 Ahora expresamos la entrada como un polinomio
 
-\\[x[n]=7n=\left\\{   \begin{array}{ c l }
-    P(n) = &  \eq 7n \\\\
-    A^n & \eq 1
-  \end{array}
-\right.\\]
+\\[P(n) = 7n, \quad A^n = 1\\]
 
 Reemplazando \\(y\_p[n]\\) en la ED.
 
