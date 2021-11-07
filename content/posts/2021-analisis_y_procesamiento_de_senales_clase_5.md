@@ -1,6 +1,7 @@
 +++
 title = "Análisis y procesamiento de señales - Clase 5"
 date = 2021-10-26T00:00:00-03:00
+tags = ["Análisis y procesamiento de señales", "Academic"]
 draft = false
 +++
 

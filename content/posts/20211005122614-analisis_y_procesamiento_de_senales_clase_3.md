@@ -1,6 +1,7 @@
 +++
 title = "Análisis y procesamiento de señales - Clase 3"
 date = 2021-10-26T00:00:00-03:00
+tags = ["Análisis y procesamiento de señales", "Academic"]
 draft = false
 +++
 
@@ -77,3 +78,20 @@ plot(n,x);
 subplot 212;
 hist(x,100);
 ```
+
+
+## i {#i}
+
+
+### i {#i}
+
+
+#### i {#i}
+
+<!--list-separator-->
+
+-  i
+
+    <!--list-separator-->
+
+    -  i
